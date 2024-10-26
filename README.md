@@ -1,9 +1,13 @@
-Group Notes
-Dustin: Set up software stack in Firmware directions up ti GATT Server section
+# Group Notes
+10/25/2024 Dustin: Set up software stack in Firmware directions up ti GATT Server section
+
 After installing rust, edit the .zprofile file in ~/Users/$User/.zprofile
 Add the following: 
+
 . $HOME/export-esp.sh
+
 export PATH="$PATH:/Users/$User/.cargo/bin"
+
 Save the file,
 
 
