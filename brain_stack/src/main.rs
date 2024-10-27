@@ -49,5 +49,13 @@ async fn main(_spawner: Spawner) {
     println!("Connector created");
     loop {
         println!("{:?}", ble.init().await); // Debug purposes
+        // Create an advertisement
+        println!("{:?}", ble.cmd_le_advertising_parameters().await);
+        println!(
+            "{:?}",
+            ble.cmd_set_le>advertising_data(
+                creater_advertising
+            )
+        )
     }
 }
