@@ -1,0 +1,1 @@
+cargo:rustc-link-search=/Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/release/build/xtensa-lx-7376c67fa113f8d0/out

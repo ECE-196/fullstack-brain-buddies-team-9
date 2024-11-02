@@ -1,0 +1,2 @@
+cargo:rustc-link-arg-bins=-Tlinkall.x
+cargo::rustc-link-arg=-Trom_functions.x

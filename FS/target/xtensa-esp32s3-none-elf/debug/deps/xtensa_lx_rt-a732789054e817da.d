@@ -1,0 +1,12 @@
+/Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/debug/deps/libxtensa_lx_rt-a732789054e817da.rmeta: /Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/lib.rs /Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/exception.rs /Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/exception/asm.rs /Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/exception/context.rs /Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/interrupt.rs /Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/debug/build/xtensa-lx-rt-81d9528c80bc4f2f/out/interrupt_level_masks.rs
+
+/Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/debug/deps/xtensa_lx_rt-a732789054e817da.d: /Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/lib.rs /Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/exception.rs /Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/exception/asm.rs /Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/exception/context.rs /Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/interrupt.rs /Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/debug/build/xtensa-lx-rt-81d9528c80bc4f2f/out/interrupt_level_masks.rs
+
+/Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/lib.rs:
+/Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/exception.rs:
+/Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/exception/asm.rs:
+/Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/exception/context.rs:
+/Users/gisellemendoza/.cargo/git/checkouts/esp-hal-42ec44e8c6943228/0981c1b/xtensa-lx-rt/src/interrupt.rs:
+/Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/debug/build/xtensa-lx-rt-81d9528c80bc4f2f/out/interrupt_level_masks.rs:
+
+# env-dep:OUT_DIR=/Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/debug/build/xtensa-lx-rt-81d9528c80bc4f2f/out

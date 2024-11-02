@@ -1,0 +1,8 @@
+/Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/debug/deps/libembassy_usb_synopsys_otg-e5e406fad35c1cf1.rmeta: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/fmt.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/otg_v1.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/../README.md
+
+/Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/debug/deps/embassy_usb_synopsys_otg-e5e406fad35c1cf1.d: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/fmt.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/otg_v1.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/../README.md
+
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/lib.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/fmt.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/otg_v1.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/../README.md:

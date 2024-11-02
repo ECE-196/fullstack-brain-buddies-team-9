@@ -1,0 +1,1 @@
+/Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/release/FullStack: /Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/build.rs /Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/src/main.rs

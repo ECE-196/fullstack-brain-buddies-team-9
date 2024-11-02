@@ -1,0 +1,10 @@
+/Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/debug/deps/libfugit-87fb205c2f20b42c.rmeta: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/aliases.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/duration.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/helpers.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/instant.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/rate.rs
+
+/Users/gisellemendoza/Documents/GitHub/FullStack/FullStack/target/xtensa-esp32s3-none-elf/debug/deps/fugit-87fb205c2f20b42c.d: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/aliases.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/duration.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/helpers.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/instant.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/rate.rs
+
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/lib.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/aliases.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/duration.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/helpers.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/instant.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/rate.rs:
