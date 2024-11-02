@@ -1,9 +1,0 @@
-/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/debug/deps/libembedded_hal_nb-0d0cbbde8b402f94.rmeta: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/serial.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/spi.rs
-
-/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/debug/deps/libembedded_hal_nb-0d0cbbde8b402f94.rlib: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/serial.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/spi.rs
-
-/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/debug/deps/embedded_hal_nb-0d0cbbde8b402f94.d: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/serial.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/spi.rs
-
-/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/lib.rs:
-/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/serial.rs:
-/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embedded-hal-nb-1.0.0/src/spi.rs:

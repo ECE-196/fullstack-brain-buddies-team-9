@@ -1,9 +1,0 @@
-/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/release/deps/libembassy_time_driver-2d12d8eb94ada349.rmeta: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/tick.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/../README.md
-
-/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/release/deps/libembassy_time_driver-2d12d8eb94ada349.rlib: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/tick.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/../README.md
-
-/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/release/deps/embassy_time_driver-2d12d8eb94ada349.d: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/tick.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/../README.md
-
-/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/lib.rs:
-/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/tick.rs:
-/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-driver-0.1.0/src/../README.md:

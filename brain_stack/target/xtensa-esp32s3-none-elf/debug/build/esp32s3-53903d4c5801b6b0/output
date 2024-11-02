@@ -1,3 +1,0 @@
-cargo:rustc-link-search=/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/debug/build/esp32s3-53903d4c5801b6b0/out
-cargo:rerun-if-changed=device.x
-cargo:rerun-if-changed=build.rs
