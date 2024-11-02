@@ -30,6 +30,7 @@ bleps = { git = "https://github.com/bjoernQ/bleps", package = "bleps", branch = 
     "macros",
     "async",
 ] }
+fugit = "0.3.7"
 [[bin]]
 name = "brain_stack"
 test = false
@@ -40,9 +41,6 @@ debug = true
 lto = true
 opt-level = 3
 incremental = true
-
-[profile.dev.package.esp-wifi]
-opt-level = 3
 
 [profile.release]
 debug = false
@@ -57,3 +55,6 @@ esp-backtrace = { git = "https://github.com/esp-rs/esp-hal/", rev = "0981c1b6195
 esp-println = { git = "https://github.com/esp-rs/esp-hal/", rev = "0981c1b619529fca8bb2eb2029e8afd8efb54fd9" }
 esp-wifi = { git = "https://github.com/esp-rs/esp-hal/", rev = "0981c1b619529fca8bb2eb2029e8afd8efb54fd9" }
 esp-alloc = { git = "https://github.com/esp-rs/esp-hal/", rev = "0981c1b619529fca8bb2eb2029e8afd8efb54fd9" }
+
+[profile.dev.package.esp-wifi]
+opt-level = 3

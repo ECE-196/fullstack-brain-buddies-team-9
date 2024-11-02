@@ -112,6 +112,7 @@ dependencies = [
  "esp-hal-embassy",
  "esp-println",
  "esp-wifi",
+ "fugit",
  "log",
 ]
 

@@ -11,4 +11,4 @@ cargo:rustc-link-lib=smartconfig
 cargo:rustc-link-lib=wapi
 cargo:rustc-link-lib=wpa_supplicant
 cargo:rustc-link-lib=printf
-cargo:rustc-link-search=/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/release/build/esp-wifi-sys-00f64f8f027fc597/out
+cargo:rustc-link-search=/Users/Dustin/Documents/School/UCSD/24FA/ECE 196/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/release/build/esp-wifi-sys-00f64f8f027fc597/out

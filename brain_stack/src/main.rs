@@ -14,21 +14,27 @@ use esp_wifi::ble::controller::BleConnector;
 
 #[esp_hal_embassy::main]
 async fn main(_spawner: Spawner) {
-    // esp_println::logger::init_logger_from_env();
-    // let peripherals = esp_hal::init(esp_hal::Config::default());
-    // let timg0 = TimerGroup::new(peripherals.TIMG0);
-    // esp_hal_embassy::init(timg0.timer0);
+    esp_println::logger::init_logger_from_env();
+    let peripherals = esp_hal::init(esp_hal::Config::default());
+    let timg0 = TimerGroup::new(peripherals.TIMG0);
+    let timg0 = TimerGroup::new(peripherals.TIMG1);
+
+    esp_hal_embassy::init(timg0.timer0);
 
     esp_println::logger::init_logger_from_env();
 
-    let peripherals = Peripherals::take();
+    esp_println::logger::init_logger_from_env();
+
+    // let peripherals = Peripherals::take();
     let system = SystemControl::new(peripherals.SYSTEM);
-    let clocks = ClockControl::max(system.clock_contol).freeze();
+    // let clocks = ClockControl::max(system.clock_control).freeze();
 
-    let timg0 = TimerGroup::new(peripherals.TIMG0, &clocks);
-    let timeg1 = TimerGroup::new(peripherals.TIMG1, &clocks);
+    // let timg0 = TimerGroup::new(peripherals.TIMG0, &clocks);
+    // let timg1 = TimerGroup::new(peripherals.TIMG1, &clocks);
 
-    esp_hal_embassy::init(&clocks, timg0.timer0);
+    //esp_hal_embassy::init(&clocks, timg0.timer0);
+
+
 
     let io = Io::new(peripherals.GPIO, peripherals.IO_MUX);
 
@@ -45,7 +51,7 @@ async fn main(_spawner: Spawner) {
     )
         .unwrap();
 
-    let mut bluetooth = peropherals.BT;
+    let mut bluetooth = peripherals.BT;
 
     let connector = BleConnector::new(&init, &mut bluetooth);
     let mut ble = Ble::new(connector, esp_wifi::current_millis);
@@ -76,8 +82,8 @@ async fn main(_spawner: Spawner) {
             uuid: "937312e0-2354-11eb-9f10-fbc30a62cf38",
             characteristics: [characteristic {
                 uuid: "937312e0-2354-11eb-9f10-fbc30a62cf38",
-                read: rf
-                write: wf
+                read: rf,
+                write: wf,
             },],
         },]);
         println!("{:?}", gatt_attributes);

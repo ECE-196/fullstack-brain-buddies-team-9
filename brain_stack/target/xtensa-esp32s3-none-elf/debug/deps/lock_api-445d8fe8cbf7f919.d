@@ -1,0 +1,10 @@
+/Users/Dustin/Documents/School/UCSD/24FA/ECE196/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/debug/deps/liblock_api-445d8fe8cbf7f919.rmeta: /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/Dustin/Documents/School/UCSD/24FA/ECE196/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/debug/deps/liblock_api-445d8fe8cbf7f919.rlib: /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/Dustin/Documents/School/UCSD/24FA/ECE196/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/debug/deps/lock_api-445d8fe8cbf7f919.d: /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs:
+/Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs:
+/Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs:
+/Users/Dustin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs:
