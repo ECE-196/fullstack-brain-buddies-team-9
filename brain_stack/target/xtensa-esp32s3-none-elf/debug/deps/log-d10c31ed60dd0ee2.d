@@ -1,0 +1,10 @@
+/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/debug/deps/liblog-d10c31ed60dd0ee2.rmeta: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/debug/deps/liblog-d10c31ed60dd0ee2.rlib: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/Users/gisellemendoza/Documents/GitHub/fullstack-brain-buddies-team-9/brain_stack/target/xtensa-esp32s3-none-elf/debug/deps/log-d10c31ed60dd0ee2.d: /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs:
+/Users/gisellemendoza/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs:
